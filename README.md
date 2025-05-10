@@ -23,32 +23,32 @@ Visualize patterns and trends using Excel charts
 
 ## Key Analyses Performed
 
-- **Attrition-Focused Insights**
+**Attrition-Focused Insights**
 
-Overall attrition rate
-Attrition by job role
-Attrition by overtime status
+-Overall attrition rate
+-Attrition by job role
+-Attrition by overtime status
 
-- **Employee Demographics & Performance**
+**Employee Demographics & Performance**
 
-Monthly income by department
-Attrition rate by Education level
-Gender impact on attrition
-Marital status impact on attrition
-Comparison of Age with Employee count
+-Monthly income by department
+-Attrition rate by Education level
+-Gender impact on attrition
+-Marital status impact on attrition
+-Comparison of Age with Employee count
 
-- **Salary & Compensation**
+**Salary & Compensation**
 
-Relationship between income and attrition
-Percent salary hike across departments
-Relationship between jobroles and salary
+-Relationship between income and attrition
+-Percent salary hike across departments
+-Relationship between jobroles and salary
 
-- **Satisfaction & Work-Life Balance**
+**Satisfaction & Work-Life Balance**
 
-Effect of environment and job satisfaction on attrition
-Work-life balance vs. years since last promotion
-Years in current role vs. total years at company
-Average years before first promotion
+-Effect of environment and job satisfaction on attrition
+-Work-life balance vs. years since last promotion
+-Years in current role vs. total years at company
+-Average years before first promotion
 
 ## Key Insights
 
