@@ -25,36 +25,37 @@ Visualize patterns and trends using Excel charts
 
 **Attrition-Focused Insights**
 
--Overall attrition rate
--Attrition by job role
--Attrition by overtime status
+- Overall attrition rate
+- Attrition by job role
+- Attrition by overtime status
 
 **Employee Demographics & Performance**
 
--Monthly income by department
--Attrition rate by Education level
--Gender impact on attrition
--Marital status impact on attrition
--Comparison of Age with Employee count
+- Monthly income by department
+- Attrition rate by Education level
+- Gender impact on attrition
+- Marital status impact on attrition
+- Comparison of Age with Employee count
 
 **Salary & Compensation**
 
--Relationship between income and attrition
--Percent salary hike across departments
--Relationship between jobroles and salary
+- Relationship between income and attrition
+- Percent salary hike across departments
+- Relationship between jobroles and salary
 
 **Satisfaction & Work-Life Balance**
 
--Effect of environment and job satisfaction on attrition
--Work-life balance vs. years since last promotion
--Years in current role vs. total years at company
--Average years before first promotion
+- Effect of environment and job satisfaction on attrition
+- Work-life balance vs. years since last promotion
+- Years in current role vs. total years at company
+- Average years before first promotion
 
 ## Key Insights
 
 ## Dashboard
 
-![IBM HR Analytics Employee Attrition   Performance Dashboard](https://github.com/user-attachments/assets/2b45c6ca-3a60-4502-b148-5a42c8207959)
+![IBM HR Analytics Employee Attrition   Performance Dashboard](https://github.com/user-attachments/assets/d639ae46-a8e1-4f5d-9f7c-563b1cc6c5a6)
+
 
 
 
