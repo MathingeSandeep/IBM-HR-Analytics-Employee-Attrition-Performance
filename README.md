@@ -9,10 +9,10 @@ Features: Age, Gender, Department, Job Role, Monthly Income, Attrition, Job Sati
 
 ## Key Steps Involved
 
-**Data Cleaning** – Handling missing values, removing duplicates, and formatting data.
- **Data Processing** – Transforming raw data into meaningful insights using Excel functions and Pivot Tables.
- **Data Visualization** – Creating charts and graphs to represent trends in sales, customer behavior, and revenue.
- **Interactive Dashboard** – A dynamic dashboard for easy filtering and analysis of key metrics.
+- **Data Cleaning** – Handling missing values, removing duplicates, and formatting data.
+- **Data Processing** – Transforming raw data into meaningful insights using Excel functions and Pivot Tables.
+- **Data Visualization** – Creating charts and graphs to represent trends in sales, customer behavior, and revenue.
+- **Interactive Dashboard** – A dynamic dashboard for easy filtering and analysis of key metrics.
 
  ## Objectives
 
